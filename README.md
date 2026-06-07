@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- My main project is XDR System<br>- My favorite language is Python<br>- I like Cyber(Mostly red teaming)</p>
+<p align="left">- My main projects are XDR System and SpectreNet<br>- My favorite coding language is Python<br>- I like Cyber(Mostly red teaming)</p>
 
 ###
 
